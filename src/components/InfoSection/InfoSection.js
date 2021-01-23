@@ -1,5 +1,5 @@
 import React from 'react';
-import { InfoContainer, InfoWrapper, InfoRow, Column1, Column2, TextWrapper, TopLine, Heading, Subtitle, ImgWrap, Img } from './InfoSectionElements';
+import { InfoContainer, InfoWrapper, InfoRow, Column1, Column2, TextWrapper, TopLine, Heading, Subtitle, ImgWrap } from './InfoSectionElements';
 import me from './me.png';
 
 

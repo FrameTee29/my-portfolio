@@ -81,7 +81,7 @@ export const Subtitle = styled.p`
     margin-bottom: 35px;
     font-size: 18px;
     line-height: 24px;
-    color: ${({ darkText }) => (darkText ? '#f7f8fa' : '010606')}
+    color: ${({ darkText }) => (darkText ? '#f7f8fa' : '010606')};
 `;
 
 export const ImgWrap = styled.div`

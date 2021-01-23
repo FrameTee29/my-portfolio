@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const InfoContainer = styled.div`
     color: #fff;
     background: #000;
-    // background: ${({lightBg}) => (lightBg ? '#f9f9f9' : '010606')};
+    // background: ${({ lightBg }) => (lightBg ? '#f9f9f9' : '010606')};
 
     @media screen and (max-widrh: 768px) {
         padding: 100px 0;
@@ -29,7 +29,7 @@ export const InfoRow = styled.div`
     grid-template-areas: ${(imgStart) => (imgStart ? `'col2 col1'` : `'col1 col2'`)};
 
     @media screen and (max-width: 768px){
-        grid-template-areas: ${({imgStart}) => (imgStart ? `'col1' 'col2'` : `'col1 col1' 'col2 col2'`)}
+        grid-template-areas: ${({ imgStart }) => (imgStart ? `'col1' 'col2'` : `'col1 col1' 'col2 col2'`)}
     }
 `;
 
@@ -80,7 +80,7 @@ export const Subtitle = styled.p`
     margin-bottom: 35px;
     font-size: 18px;
     line-height: 24px;
-    color: ${({ lightText }) => (lightText ? '#f7f8fa' : '010606')}
+    color: ${({ lightText }) => (lightText ? '#f7f8fa' : '010606')};
 `;
 
 export const ImgWrap = styled.div`
