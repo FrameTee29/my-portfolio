@@ -10,20 +10,20 @@ const InfoSection = () => {
                 <InfoWrapper>
                     <InfoRow >
                         <Column1>
-                        <ImgWrap>
-                            <img src={me}
-                                width="529"
-                                height="555"
-                            />
+                            <ImgWrap>
+                                <img src={me}
+                                    width="529"
+                                    height="555"
+                                />
                             </ImgWrap>
                         </Column1>
                         <Column2>
-                        <TextWrapper>
-                            <TopLine>HI , I AM</TopLine>
-                            <Heading >NICHAKAN JAISAKSERN</Heading>
-                            <Subtitle >Computer Emgineering</Subtitle>
-                        </TextWrapper>
-                            
+                            <TextWrapper>
+                                <TopLine>HI , I AM</TopLine>
+                                <Heading >NICHAKAN JAISAKSERN</Heading>
+                                <Subtitle >Computer Emgineering</Subtitle>
+                            </TextWrapper>
+
                         </Column2>
                     </InfoRow>
                 </InfoWrapper>
