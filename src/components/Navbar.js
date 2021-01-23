@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import { ImPacman } from "react-icons/im";
 import { animateScroll as scroll} from 'react-scroll';
-import {FaBars} from 'react-icons/fa';
 
 import {
   Nav, 

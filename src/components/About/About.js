@@ -1,5 +1,5 @@
 import React from 'react';
-import { InfoContainer, InfoWrapper, InfoRow, Column1, Column2, Heading, Subtitle, ImgWrap, Img } from './AboutElements';
+import { InfoContainer, InfoWrapper, InfoRow, Column1, Column2, Heading, Subtitle, ImgWrap } from './AboutElements';
 import me2 from './me2.png';
 
 
