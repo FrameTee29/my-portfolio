@@ -8,9 +8,6 @@ import {
   NavbarContainer, 
   NavLogo, 
   MobileIcon, 
-  NavMenu, 
-  NavItem, 
-  NavLinks
 } from './NavElements';
 
 

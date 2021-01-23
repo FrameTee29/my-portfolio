@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import '../App.css';
-import Sidebar from './Sidebar';
 import Navbar from './Navbar'
 import InfoSection from './InfoSection/InfoSection';
 import About from './About/About';

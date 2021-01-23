@@ -1,5 +1,4 @@
 import React from 'react';
-import { EducationCard } from '../Education/EducationElements';
 import { ContactContainer, ContactH1, ContactH2, ContactWrapper, ContactCard } from './ContactElrments';
 
 
