@@ -14,6 +14,7 @@ const InfoSection = () => {
                                 <img src={me}
                                     width="529"
                                     height="555"
+                                    alt=""
                                 />
                             </ImgWrap>
                         </Column1>

@@ -19,6 +19,7 @@ function About() {
                             <ImgWrap><img src={me2}
                                 width="385"
                                 height="585"
+                                alt=""
                             />
                             </ImgWrap>
 
